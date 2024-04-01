@@ -47,23 +47,5 @@ export const payments: Payment[] = [
     amount: 200,
     status: "success",
     email: "example@gmail.com",
-  },
-  {
-    id: "476anx3t",
-    amount: 200,
-    status: "success",
-    email: "example@gmail.com",
-  },
-  {
-    id: "576anx3t",
-    amount: 200,
-    status: "success",
-    email: "example@gmail.com",
-  },
-  {
-    id: "676anx3t",
-    amount: 200,
-    status: "success",
-    email: "example@gmail.com",
-  },
+  }
 ];
