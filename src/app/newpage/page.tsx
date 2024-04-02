@@ -13,7 +13,7 @@ const NewPage = (props: Props) => {
     console.log("HELLO WORLD");
   }
   return (
-    <div>NewPage</div>
+    <div onClick={handAlert2}>NewPage</div>
   )
 }
 
