@@ -4,7 +4,7 @@ type Props = {}
 
 const RebasePage = (props: Props) => {
   return (
-    <div>RebasePage</div>
+    <div>Merge Again</div>
   )
 }
 
