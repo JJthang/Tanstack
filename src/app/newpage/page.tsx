@@ -12,6 +12,8 @@ const NewPage = (props: Props) => {
   const handAlert2 = () => {
     console.log("HELLO WORLD");
   }
+  console.log("HELLO WROLD");
+  
   return (
     <div onClick={handAlert2}>NewPage</div>
   )
